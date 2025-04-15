@@ -1,0 +1,15 @@
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\bin\Debug\net6.0\SeminarHub.Data.deps.json
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\bin\Debug\net6.0\SeminarHub.Data.runtimeconfig.json
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\bin\Debug\net6.0\SeminarHub.Data.dll
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\bin\Debug\net6.0\SeminarHub.Data.pdb
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.csproj.AssemblyReference.cache
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.AssemblyInfoInputs.cache
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.AssemblyInfo.cs
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.csproj.CoreCompileInputs.cache
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.sourcelink.json
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.dll
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\refint\SeminarHub.Data.dll
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.pdb
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\SeminarHub.Data.genruntimeconfig.cache
+F:\Exams\RegularExam\SeminarHub\SeminarHub.Data\obj\Debug\net6.0\ref\SeminarHub.Data.dll

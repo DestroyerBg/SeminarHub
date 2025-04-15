@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Exams\\RegularExam\\SeminarHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|f:\\exams\\regularexam\\seminarhub\\seminarhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|f:\\exams\\regularexam\\seminarhub\\seminarhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51CE381E-32A2-4CCD-98B3-8BDD8F8C98CE}|SeminarHub\\SeminarHub.csproj|solutionrelative:seminarhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b4c7ba7a-f9bb-5241-81be-87fce502305e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Exams\\RegularExam\\SeminarHub\\SeminarHub\\appsettings.json",
+              "RelativeDocumentMoniker": "SeminarHub\\appsettings.json",
+              "ToolTip": "F:\\Exams\\RegularExam\\SeminarHub\\SeminarHub\\appsettings.json",
+              "RelativeToolTip": "SeminarHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T07:40:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Exams\\RegularExam\\SeminarHub\\SeminarHub\\Program.cs",
+              "RelativeDocumentMoniker": "SeminarHub\\Program.cs",
+              "ToolTip": "F:\\Exams\\RegularExam\\SeminarHub\\SeminarHub\\Program.cs",
+              "RelativeToolTip": "SeminarHub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:40:05.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
